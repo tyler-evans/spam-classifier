@@ -1,0 +1,823 @@
+Last login: Sun Dec 10 16:46:44 on ttys000
+Tylers-MBP:~ tyler$ cd /Users/tyler/Desktop/comp3190/A4 
+Tylers-MBP:A4 tyler$ python Untitled-modular.py
+nltk Porter Stemmer set up
+Training: Email tokenized into words, ignore header.
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 4100 4200 4300 4400 4500 4600 4700 4800 4900 5000 5100 Done Training
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 Done Training
+Testing
+Testing spam,  progress:  100 200 300 400 
+
+First spam email classified as spam:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-type: text/plain; charset="iso-8859-1"
+
+Venez rencontrer l'ame soeur sur LOVEIMPACT.com
+
+    > Inscription gratuite
+    > Consultez les fiches
+    > Dialoguez en direct
+
+ 
+
+Inscrivez-vous gratuitement en cliquant ici :
+http://www.imp20.com/loveimpact/loveimpact300702-2.htm
+
+ 
+
+Vous recevez cet e-mail en tant qu'abonn? ? Oktomail
+Pour ne plus ?tre contact?, cliquez ici :
+http://www.imp20.com/loveimpact/loveimpact300702-remove.htm
+
+
+
+------=_NextPart_84815C5ABAF209EF376268C8
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+
+<head>
+</head>
+
+<body bgcolor=3D"#FFFFFF">
+<table width=3D"59%" border=3D"0" align=3D"center">
+  <tr>=20
+    <td>
+      <div align=3D"center"><font face=3D"Verdana, Arial, Helvetica, sans-=
+serif" size=3D"3"><b><font color=3D"5A1558">Rencontrez=20
+        l'amour pour la vie ou juste pour une nuit=2E=2E=2E<br>
+        100% Anonyme !<br>
+        100 % Discret=2E=2E=2E<br>
+        Toujours coquin mais Jamais Vulgaire ! </font></b></font></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bor=
+der-collapse: collapse" bordercolor=3D"#111111" width=3D"320" align=3D"cen=
+ter">
+        <tr>=20
+          <td width=3D"100%"><a href=3D"http://www=2Eimp20=2Ecom/loveimpac=
+t/loveimpact300702-1=2Ehtm" target=3D"_blank"><img border=3D"0" src=3D"htt=
+p://x=2Ejmailer=2Ecom/fr/standalone/loveimpact/260702/haut_3=2Ejpg" width=3D=
+"400" height=3D"100"></a></td>
+        </tr>
+        <tr>=20
+          <td width=3D"100%" background=3D"http://x=2Ejmailer=2Ecom/fr/sta=
+ndalone/loveimpact/260702/inscription_fond=2Ejpg">=20
+            <div align=3D"center">=20
+              <center>
+                <table border=3D"0" cellpadding=3D"4" cellspacing=3D"0" st=
+yle=3D"border-collapse: collapse" bordercolor=3D"#111111" width=3D"90%">
+                  <tr>=20
+                    <td width=3D"100%">
+                      <div align=3D"center"><b><font face=3D"Verdana" size=
+=3D"2"><br>
+                        </font></b>=20
+                        <table width=3D"100%" border=3D"0">
+                          <tr>=20
+                            <td width=3D"12%">&nbsp;</td>
+                            <td width=3D"88%"><b><font face=3D"Verdana" si=
+ze=3D"2">-=20
+                              Inscription ANONYME et GRATUITE <br>
+                              - Dialogue en Direct <br>
+                              - Fiches d'inscrit(e)s + photos<br>
+                              - =2E=2E=2E </font></b></td>
+                          </tr>
+                        </table>
+                        <b><font face=3D"Verdana" size=3D"2"><br>
+                        Une s&eacute;lection des dernir(e)s inscrit(e)s du=
+ jour<br>
+                        <br>
+                        </font></b> </div>
+                      <div align=3D"left">=20
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border-collapse: collapse" bordercolor=3D"#111111" width=3D"1=
+00%" align=3D"left">
+                          <tr>=20
+                            <td width=3D"23%" height=3D"109" valign=3D"top=
+" align=3D"left">=20
+                              <img border=3D"0" src=3D"http://x=2Ejmailer=2E=
+com/fr/standalone/loveimpact/260702/photo01=2Ejpg" width=3D"70" height=3D"=
+93"></td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+" height=3D"109"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-=
+serif"><b>=20
+                              CANDILIENE</b><br>
+                              Blonde, 19ans<br>
+                              Ne veut pas passer seule ses vacances=2E=2E=2E=
+ <br>
+                              Ch H Metisse ou black de pr=E9f=E9rence=2E=2E=
+=2E<br>
+                              <br>
+                              <font color=3D"#FF0000" size=3D"1"><a href=3D=
+"http://www=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_=
+blank">Contactez-la</a>=20
+                              maintenant sur loveimpact=2Ecom<br>
+                              &nbsp;</font></font></td>
+                          </tr>
+                          <tr>=20
+                            <td width=3D"23%" align=3D"left" valign=3D"top=
+"> <img border=3D"0" src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimp=
+act/260702/photo04=2Ejpg" width=3D"70" height=3D"105"><br>
+                              &nbsp;</td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>=20
+                              <br>
+                              <br>
+                              Mehdi</b><br>
+                              Juste pour one night one girl delirante et t=
+op fun=2E=2E=2E<br>
+                              <br>
+                              <font color=3D"#FF0000" size=3D"1"><a href=3D=
+"http://www=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_=
+blank">Contactez-le</a>=20
+                              maintenant sur loveimpact=2Ecom</font></font=
+></td>
+                          </tr>
+                          <tr>=20
+                            <td width=3D"23%" align=3D"left" valign=3D"top=
+"> <img border=3D"0" src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimp=
+act/260702/photo02=2Ejpg" width=3D"70" height=3D"94"><br>
+                              &nbsp;</td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>=20
+                              <br>
+                              SONIA</b><br>
+                              Blonde, 21ans<br>
+                              Cherche =E0 =EAtre s=E9duite par un homme mu=
+scl=E9 de la=20
+                              t=EAte only !<br>
+                              <font size=3D"1"><br>
+                              <font color=3D"#FF0000"><a href=3D"http://ww=
+w=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_blank">Con=
+tactez-la</a>=20
+                              maintenant sur loveimpact=2Ecom</font></font=
+></font></td>
+                          </tr>
+                          <tr>=20
+                            <td width=3D"23%" align=3D"left" valign=3D"top=
+"> <img border=3D"0" src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimp=
+act/260702/photo03=2Ejpg" width=3D"70" height=3D"100"><br>
+                              &nbsp;</td>
+                            <td width=3D"77%" align=3D"left" valign=3D"top=
+"><font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif"><b>=20
+                              <br>
+                              Yangchi</b><br>
+                              M=E9tisse asiatique, 19ans<br>
+                              faite la r=EAver en lui racontant des histoi=
+res=2E=2E=2E<br>
+                              <br>
+                              <font color=3D"#FF0000" size=3D"1"><a href=3D=
+"http://www=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_=
+blank">Contactez-la</a>=20
+                              maintenant sur loveimpact=2Ecom</font></font=
+></td>
+                          </tr>
+                        </table>
+                      </div>
+                      <p>&nbsp;</p>
+                      <p>&nbsp;
+                    </td>
+                  </tr>
+                </table>
+                <b><font face=3D"Verdana" size=3D"2"><a href=3D"http://www=
+=2Eimp20=2Ecom/loveimpact/loveimpact300702-2=2Ehtm" target=3D"_blank"><img=
+ src=3D"http://x=2Ejmailer=2Ecom/fr/standalone/loveimpact/260702/inscripti=
+on_gratuite=2Ejpg" width=3D"192" height=3D"39" border=3D"0"></a></font></b=
+>=20
+              </center>
+            </div>
+          </td>
+        </tr>
+        <tr>=20
+          <td width=3D"100%"> <img src=3D"http://x=2Ejmailer=2Ecom/fr/stan=
+dalone/loveimpact/260702/inscription_bas_2=2Egif" width=3D"400" height=3D"=
+13"></td>
+        </tr>
+      </table>
+      <div align=3D"center"></div>
+    </td>
+  </tr>
+</table>
+<p align=3D"center"><img src=3D"http://www=2Eimp20=2Ecom/loveimpact/loveim=
+pact300702=2Egif">=20
+  <font size=3D"2" face=3D"Verdana, Arial, Helvetica, sans-serif">Vous rec=
+evez cet=20
+  e-mail en tant qu'abonn&eacute; &agrave; Oktomail<br>
+  Pour ne plus recevoir de message, <a href=3D"http://www=2Eimp20=2Ecom/lo=
+veimpact/loveimpact300702-remove=2Ehtm">cliquez-ici</a>=2E</font></p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>
+
+------=_NextPart_84815C5ABAF209EF376268C8--
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+First spam email classified as ham:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To:   avfs@fazekas.hu
+Attn: Marketing Department
+From: I.Q. Software - Bucharest
+Ref.: Romanian Software Production & Export
+
+------------------------------------------------------------------------
+                 Our anti-spamming company policy:
+                      NEVER BOTHER YOU AGAIN
+
+           To remove your E-mail address from the present
+           contact list JUST DO NOT REPLY to this message.
+
+ If you receive this message by mistake and/or you are not interested
+   in the following brief presentation, please accept our apologies.
+
+This is a world-wide promotion campaign. The selected E-mail addresses
+are extracted only FROM THE COMMERCIAL WEBSITES of the targeted markets.
+------------------------------------------------------------------------
+
+We would like to offer you for consideration our brief presentation.
+         We are looking for a marketplace in your country.
+
+             To communicate with us please reply using
+         the plain text format in the body of the message
+
+     >>> mentioning your Specific Inquiry/Offering Demand <<<
+
+              and your detailed contact information:
+
+>>> company name, address, phone & fax numbers, contact person. <<<
+
+     Simple replies and advertisements will not be considered.
+               We do not open any PC applications.
+
+If you answer to this message, we will contact you every 3 months in
+order to update our partners service database. Thank you for your time.
+
+Best regards,
+I.Q. Software Staff
+
+
+                      Dear customer,
+
+Please be so kind and review our Software Production export offer bellow:
+
+                  BRIEF EXPORT PROPOSAL
+
+Our area of interest is quality Software Production
+export at the lowest prices.
+
+The capabilities and references listed bellow show the advantages
+obtained by the institutions we worked for.
+
+WE WOULD LIKE YOU TO SEND US YOUR SPECIFIC INQUIRY/OFFERING DEMAND.
+
+This will give us the chance to prove our efficiency.
+
+Our company's name is I.Q. Software from Bucharest, and we are
+one of the most important Romanian software companies. 
+
+The intense and almost exclusive cooperation with other
+foreign companies allowed us to increase our structure
+by developing new projects and systems. 
+
+>From the begining we addressed to private companies
+as well as to public administration.
+
+Our projects were born in Italy, but afterwards they grew
+and shaped in Romania due to the high professionalism
+and commitment of the team that worked to bring to end
+these daring projects. 
+
+Our success was posible due to the excellent teamwork,
+access to the latest high performace software and last
+but not the least to the low prices for production process
+on Romanian market. 
+
+That is why we can confirm that the products we offer you
+are the most convenient on international market
+considering the high level of quality. 
+
+Here are the best examples of our abilities to meet
+the clients needs on the specific task on there main areas: 
+
+        - software development;
+        - man-power;
+        - data-entry;
+        - mapdrawing;
+        - outsourcing.
+
+********************************************************
+
+* So that you would be able to have an idea of our skills
+  we present you some of our current projects: 
+
+The Situs System (Informative of Tribunals Bureaus of Supervision)
+was realized for informative administration of activities typical
+for Tribunals and Bureaus of Supervision for MINISTRY OF JUSTICE -ITALY
+(Microsoft Visual Basic 6.0, DataBase: Oracle 8.0). 
+
+The ICE System foresaw the resigtering of the Italian-Romanian companies
+on Romanian territory. The application is constituted by a browser which
+allows the navigation and provides some additional skills, advanced search
+on varied criterious which are created in a dynamic way by the user
+(VisualBasic 6.0, DataBase: Access 97). 
+
+Museum -the main request from the museum was to handle (multimedia)
+documents in specific formats on different operating system and platforms
+( C++, HTML, CORBA IDL, ORB: Orbacus). 
+
+Library  (National Library of FIRENZE)- Informatical system for managing
+and labeling the ancient bibliographical materials
+(Power Builder, DataBase: Oracle). 
+
+Interflora - Communication and management system; consists in some
+applications and services which allows the communication between
+the flowerist man from Italy and International Association of Flowerists
+(Visual Basic 6.0). 
+
+Audit Office - The realization of a porting which foresaw 16 bit controls
+for substitution with 32 bit controls, introduction of new ActiveX controls,
+substitution of FORMULA 1 with native controls of VISUAL BASIC 6.0. 
+
+UNICO - The program foresaw the possibility of acquisition from images
+of more than 60 models of UNICO and IVA
+(fiscal declarations) - (Delphi 4.0. DataBase:SQL). 
+
+MINISTRY OF FINANCE - FISCAL DOCUMENTATION -The objective is
+the easy access to the Italian legislation and its consulting.
+The application based on a client/server architecture, using a network
+communication (SOCKETS) for data exchange with the server (Visual C++). 
+
+FOREIGN MINISTRY - ECONOMICAL APPLICATION - 
+This application is conceived as a group of projects.
+                    ADMINISTRATION 
+                    BALANCE-SHEETS 
+                    DISPOSITIONS OF PAYMENT 
+                    FOREIGN EXPENSES 
+                    SYNTHETICALLY DATES 
+                    SERVERS 
+(Visual Basic 6.0, DataBase: SQL Server 7.0) 
+
+SOGEI -  THE ADMINISTRATION OF THE CUSTOM HOUSES.
+This application is created for the financial administration of the
+peripherical offices at the customhouse (Java, HTML, DataBase: Oracle 8.0). 
+
+ICCREA - Application of processing development of the
+bank-procedures on mainframe(COBOL/CICS/DB2). 
+
+TELECOM - Microfilm Data Acquisition.
+Registering numbers and subscribers. 
+
+ANAGRAFICA - Acquisition from images of dates and personal information. 
+
+ITALIAN MINISTRY OF FINANCE - Data acquisition
+from images of medical prescription. 
+
+IQ REGISTER - Acquisition of information from images
+and optics archives of documentation. 
+
+* We had been offering for the entire Veneto Region,
+  the following professional system engineers: 
+
+AMBIENTE BULL GCOS 8: Systematical and special assistance
+in Interel RFM, SQL, Infoedge. 
+
+AMBIENTE BULL/RETI: Systematical and special assistance
+of regional networks for Datanet, L.A.N., X.25,
+DSA, MAINWAY transmission, telematical networks. 
+
+AMBIENTE UNIX: 2 UNIX system operators with knowledge of GCOS 6. 
+
+* We have been offering for THE METEOROLOGY INSTITUTE OF PADOVA
+  the following professional system engineers: 
+
+AMBIENTE DIGITAL/UNIX: Systematical and special assistance
+for DEC VAX/VMS and UNIX systems with strong enough knowledge
+of Informix and C programming. 
+
+AMBIENTE/DECNET/WINDOWS: Systematical and special assistance
+for DEC VAX/VMS and WINDOWS with knowledge in financial administration
+of local networks, in financial administration and configuration of
+communication systems (router, bridge, gateway, etc) and of products
+of exchange data, in financial administration and configuration of
+interface systems of Internet. 
+
+********************************************************
+
+Therefore, to increase our presence to the international
+market we took part in the inter-governmental program
+between the United States and Romania.
+
+Thus, we participated to the international meeting of both
+Romanian and American IT companies on 1st November 2001 due
+to the kind initiative of both governments.
+
+The reason of this program, of the meeting mentioned above and of the
+initiatives that followed was to offer a new way for outsourcing, 
+more convenient than the Indian one to American software companies. 
+
+Our company, already present on American market, is interested to be 
+a potential partner and one of most interested in cooperating with
+American IT companies. 
+
+Our main interest is both on the American and European market.
+
+Our managing staff after visiting Italy managed to establish relations
+with this country for our curent projects. 
+
+On the other side a marketing tour has already been established
+in the USA in the month of May for any possible projects.
+
+That is why we might be able to directly discuss with you any new project.
+
+We'd appreciate your feed-back containing detailed contact coordinates:
+company name, address, phone and fax numbers, contact person, web-site.
+
+          Our Area of Interest: Software Production Export
+ We wish to express our availability to work under the client's brand.
+
+PLEASE DON'T HESITATE TO SEND US YOUR SPECIFIC INQUIRY/OFFERING DEMAND.
+
+    We'll be happy to provide you the lowest prices in the field.
+
+    Thanking you for your time and looking forward to your reply,
+                      we wish you all the best.
+
+I.Q. Software Staff
+
+_______________________________________________
+Avfs mailing list
+Avfs@csibe.fazekas.hu
+http://www.fazekas.hu/mailman/listinfo/avfs
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 
+
+First ham email classified as ham:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+On Sun, 21 Jul 2002 10:51:51 -0500
+Brian Fahrlander <kilroy@kamakiriad.com> wrote:
+
+> [branching the thread, here]
+> 
+>     I found another Ximian repository- I don't know if it works yet...
+> 
+> rpm     http://gstreamer.net/releases/redhat/ redhat-73-i386 deps
+> rpm-src http://gstreamer.net/releases/redhat/ redhat-73-i386 deps
+> 
+> rpm     http://gstreamer.net/releases/redhat/ redhat-73-i386 deps ximian
+> rpm-src http://gstreamer.net/releases/redhat/ redhat-73-i386 deps ximian
+> 
+> rpm     http://gstreamer.net/releases/redhat/ redhat-73-i386 deps gnomehide
+> rpm-src http://gstreamer.net/releases/redhat/ redhat-73-i386 deps gnomehide
+> 
+>     These guys are EXTREMELY apt-friendly.  Unlike most multimedia projects, they seem to prefer RPM/Apt over the older methods.  Isn't that cool?
+> 
+>     Hey- how would I have known to "apt-get install gnome-session" to kick all this off?
+> 
+> ------------------------------------------------------------------------
+> Brian Fahrl?nder              Linux Zealot, Conservative, and Technomad
+> Evansville, IN                    My Voyage: http://www.CounterMoon.com
+> ICQ  5119262
+> ------------------------------------------------------------------------
+> I don't want to hear news from Isreal until the news contains the words
+> "Bullet", "Brain", and "Arafat".
+
+i took a look into the repository it "just" contains gstreamer and his dependecies
+but thats nice for people who use it though :)
+
+thanks,
+che
+
+personally i am capped to 16 kb/s upstream only :\ if i just had like 10 to 20 times of that i would run a repository for sure. i guess alot of people would love to even get daily builds (yes i know i deserve to be eaten for that idea because it would need alot of bandwidth) but well would still be nice :).
+ 
+> _______________________________________________
+> RPM-List mailing list <RPM-List@freshrpms.net>
+> http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+_______________________________________________
+RPM-List mailing list <RPM-List@freshrpms.net>
+http://lists.freshrpms.net/mailman/listinfo/rpm-list
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+First ham email classified as spam:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0032_01C24778.16FE3000
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+I wonder could anyone reccommend a good
+website monitoring service-with sms alerts.
+thx and sorry to be OT.
+
+Adrian Murphy
+2020 Strategies
+Beechlawn
+Cloncrane
+Clonbullogue
+Co Offaly
+Ireland
+
+------=_NextPart_000_0032_01C24778.16FE3000
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2716.2200" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial size=3D2>
+<DIV><FONT face=3DArial size=3D2>Hi,</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>I wonder could anyone reccommend a=20
+good</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>website monitoring service-with sms=20
+alerts.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2>thx and sorry to be OT.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Adrian Murphy<BR>2020=20
+Strategies<BR>Beechlawn<BR>Cloncrane<BR>Clonbullogue<BR>Co=20
+Offaly<BR>Ireland</FONT></DIV></FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0032_01C24778.16FE3000--
+
+
+_______________________________________________
+Webdev mailing list
+Webdev@linux.ie
+http://www.linux.ie/mailman/listinfo/webdev
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 362
+	 Number incorrectly classified as ham: 92
+	 False negative: 20.264317%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1322
+	 Number incorrectly classified as spam: 5
+	 False positive: 0.376790%
+
+ Total Error: 5.446378%
+
+Training: Email tokenized into words, only header.
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 4100 4200 4300 4400 4500 4600 4700 4800 4900 5000 5100 Done Training
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 Done Training
+Testing
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 442
+	 Number incorrectly classified as ham: 12
+	 False negative: 2.643172%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1324
+	 Number incorrectly classified as spam: 3
+	 False positive: 0.226074%
+
+ Total Error: 0.842223%
+
+Training: Email tokenized into words, full header and body of email.
+Testing.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 401
+	 Number incorrectly classified as ham: 53
+	 False negative: 11.674009%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1326
+	 Number incorrectly classified as spam: 1
+	 False positive: 0.075358%
+
+ Total Error: 3.032004%
+
+Training: Email tokenized into trigrams, ignore header.
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 4100 4200 4300 4400 4500 4600 4700 4800 4900 5000 5100 Done Training
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 Done Training
+Testing
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 350
+	 Number incorrectly classified as ham: 104
+	 False negative: 22.907489%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1319
+	 Number incorrectly classified as spam: 8
+	 False positive: 0.602864%
+
+ Total Error: 6.288602%
+
+Training: Email tokenized into trigrams, only header.
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 4100 4200 4300 4400 4500 4600 4700 4800 4900 5000 5100 Done Training
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 Done Training
+Testing
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 433
+	 Number incorrectly classified as ham: 21
+	 False negative: 4.625551%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1318
+	 Number incorrectly classified as spam: 9
+	 False positive: 0.678222%
+
+ Total Error: 1.684447%
+
+Training: Email tokenized into trigrams, both header and body of email.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 377
+	 Number incorrectly classified as ham: 77
+	 False negative: 16.960352%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1322
+	 Number incorrectly classified as spam: 5
+	 False positive: 0.376790%
+
+ Total Error: 4.604155%
+
+New Corpus: CSDMC2010_SPAM
+Training: Email tokenized into words, both header and email body.
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 Done Training
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 Done Training
+Testing
+Testing spam,  progress:  100 200 Done testing spam
+Testing ham,  progress:  100 200 300 400 Done testing ham
+
+Test Results.
+Spam (230 in total)
+	 Number correctly classified as spam: 200
+	 Number incorrectly classified as ham: 30
+	 False negative: 13.043478%
+Ham (492 in total)
+	 Number correctly classified as ham: 490
+	 Number incorrectly classified as spam: 2
+	 False positive: 0.406504%
+
+ Total Error: 4.432133%
+
+Training: Email tokenized into trigrams, both header and email body.
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 Done Training
+Progress:  100 200 300 400 500 600 700 800 900 1000 1100 Done Training
+Testing
+Testing spam,  progress:  100 200 Done testing spam
+Testing ham,  progress:  100 200 300 400 Done testing ham
+
+Test Results.
+Spam (230 in total)
+	 Number correctly classified as spam: 190
+	 Number incorrectly classified as ham: 40
+	 False negative: 17.391304%
+Ham (492 in total)
+	 Number correctly classified as ham: 490
+	 Number incorrectly classified as spam: 2
+	 False positive: 0.406504%
+
+ Total Error: 5.817175%
+
+Applying modification to consider email size
+Testing: Email tokenized into words, ignore header.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 379
+	 Number incorrectly classified as ham: 75
+	 False negative: 16.519824%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1325
+	 Number incorrectly classified as spam: 2
+	 False positive: 0.150716%
+
+ Total Error: 4.323414%
+
+Testing: Email tokenized into words, only header.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 445
+	 Number incorrectly classified as ham: 9
+	 False negative: 1.982379%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1325
+	 Number incorrectly classified as spam: 2
+	 False positive: 0.150716%
+
+ Total Error: 0.617631%
+
+Testing: Email tokenized into words, both header and email body.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 414
+	 Number incorrectly classified as ham: 40
+	 False negative: 8.810573%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1326
+	 Number incorrectly classified as spam: 1
+	 False positive: 0.075358%
+
+ Total Error: 2.302077%
+
+Testing: Email tokenized into trigrams, ignore header.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 361
+	 Number incorrectly classified as ham: 93
+	 False negative: 20.484581%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1319
+	 Number incorrectly classified as spam: 8
+	 False positive: 0.602864%
+
+ Total Error: 5.670971%
+
+Testing: Email tokenized into trigrams, only header.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 437
+	 Number incorrectly classified as ham: 17
+	 False negative: 3.744493%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1316
+	 Number incorrectly classified as spam: 11
+	 False positive: 0.828937%
+
+ Total Error: 1.572150%
+
+Testing: Email tokenized into trigrams, both header and email body.
+Testing spam,  progress:  100 200 300 400 Done testing spam
+Testing ham,  progress:  100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 Done testing ham
+
+Test Results.
+Spam (454 in total)
+	 Number correctly classified as spam: 391
+	 Number incorrectly classified as ham: 63
+	 False negative: 13.876652%
+Ham (1327 in total)
+	 Number correctly classified as ham: 1322
+	 Number incorrectly classified as spam: 5
+	 False positive: 0.376790%
+
+ Total Error: 3.818080%
+
+
+
+End of processing.
+Tylers-MBP:A4 tyler$ 
